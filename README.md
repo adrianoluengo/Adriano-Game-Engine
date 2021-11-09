@@ -5,12 +5,15 @@ I'll be hosting all project files here (including libraries). The application wi
 
 Libraries:
 **I'll provide all the links to the libraries I found below that may be used by the engine**
+Required Components:
 - Bullet 3: Physics API (https://github.com/bulletphysics/bullet3)
 - Mach 1 SDK: Spatial Audio framework (https://github.com/Mach1Studios/m1-sdk)
 - Vulkan API (Version 1.2.189.2): Graphics API (https://vulkan.lunarg.com/sdk/home)
+- bsf: unfied real time graphics library(https://github.com/GameFoundry/bsf)
+
+Addtional Libraries:
 - imgui: lightweight GUI library (https://github.com/ocornut/imgui)
 - libigl: Geometry Processing Library (https://github.com/libigl/libigl)
 - assimp: 3D Model Importer (https://github.com/assimp/assimp)
-- bsf: unfied real time graphics library(https://github.com/GameFoundry/bsf)
 
-I'll update the repository as the project comes along. Seeing as I have more time to commit to the project now, I should be able to push a WIP version more often.
+I'll update the repository as the project comes along. Seeing as I have more time to commit to the project now, I should be able to push a WIP version soon.
