@@ -9,8 +9,7 @@ Required Components:
 - Bullet 3: Physics API (https://github.com/bulletphysics/bullet3)
 - Mach 1 SDK: Spatial Audio framework (https://github.com/Mach1Studios/m1-sdk)
 - Vulkan API (Version 1.2.189.2): Graphics API (https://vulkan.lunarg.com/sdk/home)
-- bsf: unfied real time graphics library(https://github.com/GameFoundry/bsf)
-
+- The Forge - Graphics Library with Ray Tracing support (https://github.com/ConfettiFX/The-Forge)
 Addtional Libraries:
 - imgui: lightweight GUI library (https://github.com/ocornut/imgui)
 - libigl: Geometry Processing Library (https://github.com/libigl/libigl)
