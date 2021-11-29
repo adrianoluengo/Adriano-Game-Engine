@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\OneDrive\\Documents\\Visual Studio 2022\\Libraries"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"vector": "cpp",
+			"iostream": "cpp"
+		}
+	}
+}
