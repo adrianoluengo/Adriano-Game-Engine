@@ -1,6 +1,9 @@
 #define GLFW_INCLUDE_VULKAN
 #include <glfw3.h>
 
+#include "btBulletDynamicsCommon.h"
+
+#include <stdio.h>
 #include <iostream>
 #include <stdexcept>
 #include <vector>
@@ -8,6 +11,11 @@
 #include <cstdlib>
 #include <optional>
 #include <set>
+
+#include "layercheck.h"
+#include "physics.h"
+#include "geometry_import.h"
+#include "geometry.h"
 
 const uint32_t WIDTH = 800;
 const uint32_t HEIGHT = 600;
