@@ -1,4 +1,6 @@
 # Adriano-Game-Engine
+update: 12/17/21 - The prohjects first release is now availible for download. I already compiled the project into a windows executable. I'll also upload a demo to show what the model renderer does.
+
 This is a game engine project which will use an iterative approach to versions, slowly adding new features, in order to hopefully create a simple game engine coupled with a simple tech demo.
 
 I'll be hosting all project files here (including libraries). The application will initially be built for the windows platform, but considering that most (if not all) of the libraries I'll be using are cross platform they can likely be built on other platforms. I might set up a github actions workflow that automates the build process, making it easier to access from other platforms (MacOS, Windows, and linux).
