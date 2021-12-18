@@ -1,5 +1,5 @@
 # Adriano-Game-Engine
-update: 12/17/21 - The prohjects first release is now availible for download. I already compiled the project into a windows executable. I'll also upload a demo to show what the model renderer does.
+**update**: 12/17/21 - The prohjects first release is now availible for download. I already compiled the project into a windows executable. I'll also upload a demo to show what the model renderer does.
 
 This is a game engine project which will use an iterative approach to versions, slowly adding new features, in order to hopefully create a simple game engine coupled with a simple tech demo.
 
